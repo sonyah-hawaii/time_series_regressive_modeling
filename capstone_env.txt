@@ -1,0 +1,11 @@
+name: capstone_env
+dependencies:
+  - numpy
+  - pandas
+  - jupyterlab 
+  - jupyter
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - pymc3
+  - flask
